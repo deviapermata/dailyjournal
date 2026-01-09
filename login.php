@@ -127,7 +127,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <div class="card-body">
                         <div class="text-center mb-3">
                             <i class="bi bi-person-circle h1 display-4 text-primary"></i>
-                            <p class="h5">My Daily Journal</p>
+                            <p class="h5">Welcome to My Daily Journal</p>
                             <hr />
                         </div>
                         
